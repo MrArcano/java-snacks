@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60747df2-10ae-45ed-bce7-6e3fb8e33262" name="Changes" comment="[add]: snack 3">
-      <change afterPath="$PROJECT_DIR$/src/org/experis/snack4/Snack4.java" afterDir="false" />
+    <list default="true" id="60747df2-10ae-45ed-bce7-6e3fb8e33262" name="Changes" comment="[add]: snack 4">
+      <change afterPath="$PROJECT_DIR$/src/org/experis/snack5/Snack5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Snack4">
+  <component name="RunManager" selected="Application.Snack5">
     <configuration name="Snack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.experis.snack1.Snack1" />
       <module name="java-snacks" />
@@ -100,8 +100,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Snack5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.experis.snack5.Snack5" />
+      <module name="java-snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.experis.snack5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snack5" />
         <item itemvalue="Application.Snack4" />
         <item itemvalue="Application.Snack3" />
         <item itemvalue="Application.Snack2" />
@@ -157,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711633127818</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[add]: snack 4">
+      <option name="closed" value="true" />
+      <created>1711634072093</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711634072093</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +187,7 @@
     <MESSAGE value="[add]: snack 1" />
     <MESSAGE value="[add]: snack 2" />
     <MESSAGE value="[add]: snack 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add]: snack 3" />
+    <MESSAGE value="[add]: snack 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]: snack 4" />
   </component>
 </project>
