@@ -11,12 +11,13 @@ public class Snack5 {
         System.out.print("Inserisci una stringa: ");
         char[] arrayText = scan.nextLine().toCharArray();
         int charCounter = 0, numberCounter = 0, otherCounter = 0;
-        for (int i = 0; i < arrayText.length; i++) {
-            if(Character.isAlphabetic(arrayText[i])){
+
+        for (char c : arrayText) {
+            if (Character.isAlphabetic(c)) {
                 charCounter++;
-            }else if(Character.isDigit(arrayText[i])) {
+            } else if (Character.isDigit(c)) {
                 numberCounter++;
-            }else{
+            } else {
                 otherCounter++;
             }
         }
