@@ -1,6 +1,5 @@
 package org.experis.snack4;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Snack4 {
@@ -14,7 +13,7 @@ public class Snack4 {
 
         boolean isPali = true;
 
-        for (int i = 0; i < charWord.length; i++) {
+        for (int i = 0; i < (charWord.length / 2); i++) {
             if (charWord[i] != charWord[charWord.length - 1 - i]) {
                 isPali = false;
                 break;

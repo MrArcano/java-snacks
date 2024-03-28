@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60747df2-10ae-45ed-bce7-6e3fb8e33262" name="Changes" comment="[edit]: snack 5">
-      <change afterPath="$PROJECT_DIR$/src/org/experis/snack6/Snack6.java" afterDir="false" />
+    <list default="true" id="60747df2-10ae-45ed-bce7-6e3fb8e33262" name="Changes" comment="[add]: snack 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Snack6">
+  <component name="RunManager" selected="Application.Snack4">
     <configuration name="Snack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.experis.snack2.Snack2" />
       <module name="java-snacks" />
@@ -117,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Snack6" />
         <item itemvalue="Application.Snack4" />
+        <item itemvalue="Application.Snack6" />
         <item itemvalue="Application.Snack5" />
         <item itemvalue="Application.Snack3" />
         <item itemvalue="Application.Snack2" />
@@ -197,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711635019144</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[add]: snack 6">
+      <option name="closed" value="true" />
+      <created>1711635903866</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711635903866</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +215,7 @@
     <MESSAGE value="[add]: snack 4" />
     <MESSAGE value="[add]: snack 5" />
     <MESSAGE value="[edit]: snack 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="[edit]: snack 5" />
+    <MESSAGE value="[add]: snack 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]: snack 6" />
   </component>
 </project>
